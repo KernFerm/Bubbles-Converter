@@ -1,0 +1,33 @@
+# ----------------------------------
+# OS-specific files
+# ----------------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------------
+# Byte-compiled / optimized / DLL files
+# ----------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ----------------------------------
+# Virtual environment directories
+# ----------------------------------
+env/
+venv/
+.venv/
+
+# ----------------------------------
+# PyInstaller / dist files
+# ----------------------------------
+build/
+dist/
+*.spec
+*.exe
+
+# ----------------------------------
+# Project-specific exclusions
+# ----------------------------------
+# (Keep python3119.bat, converter.py, LICENSE.md, README.md, requirements.txt)
+# If there's a folder or file you specifically want to ignore, add here.
