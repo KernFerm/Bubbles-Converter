@@ -12,8 +12,6 @@ Bubbles Converter is a user‑friendly multimedia conversion tool built with **P
   - **Video Conversion:** Convert videos to formats like MP4, MOV, AVI, MKV, WEBM, FLV, WMV, MPEG, MPG, 3GP, 3G2, M4V, VOB, TS, OGV, ASF, F4V, M2TS, MXF, AMV, GIFV, and more. 🎥
   - **Image Conversion:** Convert images to formats such as PNG, JPG, BMP, GIF, TIFF, WEBP, ICO, PPM, PGM, PBM, PNM, EPS, SVG, CR2, NEF, CRW, DNG, RAF, ORF, ARW, RW2, SR2, etc. 🖼️
   - **Audio Conversion:** Convert audio files to formats like MP3, WAV, FLAC, AAC, OGG, WMA, M4A, OPUS, AIFF, AMR, AA, AAX, ACT, etc. 🎵
-- **Theme Customization:**  
-  Change the application's color theme on the fly using the theme drop‑down menu. Available themes: `blue`, `green`, and `dark‑blue`. 🎨
 - **Intuitive Interface:**  
   The GUI guides you through selecting the conversion type, browsing for files, choosing output formats, and adjusting video settings (if applicable) — all while running in the background for a responsive experience! 🤩
 
