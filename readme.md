@@ -61,6 +61,9 @@ python converter.py
 ```
 ***(Make sure FFmpeg is installed and in your system PATH.)***
 
+## If you open the `Bubbles-Converter` folder. 
+- Double-click the `launcher.bat` to run the application.
+
 ### 5. **Select Conversion Type**:
 
 - Use the drop‑down at the top of the window to choose Video, Image, or Audio. 🎚️
