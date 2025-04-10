@@ -61,7 +61,8 @@ python converter.py
 ```
 ***(Make sure FFmpeg is installed and in your system PATH.)***
 
-## If you open the `Bubbles-Converter` folder. 
+## If you open the `Bubbles-Converter` folder.
+- Look inside you will see a `dist` folder go in there and you will see the `launcher.bat`.
 - Double-click the `launcher.bat` to run the application.
 
 ### 5. **Select Conversion Type**:
