@@ -94,7 +94,7 @@ python converter.py
 - Click the Close button to exit the application. 👋
 
 ## Sceenshots
-<img src="https://github.com/KernFerm/Bubbles-Converter/blob/main/screenshots/pic-3.png" width="250">
+<img src="https://github.com/KernFerm/Bubbles-Converter/blob/main/screenshots/pic-3.png" width="350">
 <img src="https://github.com/KernFerm/Bubbles-Converter/blob/main/screenshots/pic-4.png" width="250">
 <img src="https://github.com/KernFerm/Bubbles-Converter/blob/main/screenshots/pic-5.png" width="250">
 <img src="https://github.com/KernFerm/Bubbles-Converter/blob/main/screenshots/pic-6.png" width="250">
