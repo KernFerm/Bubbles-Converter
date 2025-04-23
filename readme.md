@@ -52,46 +52,46 @@ pip install Pillow customtkinter tk
 cd path/to/your/extracted_folder
 ```
 
-## 4. **Launch the Application**:
+## 4. **Launch the Application**
 
 - Run the converter by executing:
+  ```bash
+  python converter.py
+  ```
+  ***(Make sure FFmpeg is installed and in your system PATH.)***
 
-```
-python converter.py
-```
-***(Make sure FFmpeg is installed and in your system PATH.)***
+- If you open the `Bubbles-Converter` folder, go into the `dist` directory and double-click `launcher.bat` to run the application.
 
-## If you open the `Bubbles-Converter` folder.
-- Look inside you will see a `dist` folder go in there and you will see the `launcher.bat`.
-- Double-click the `launcher.bat` to run the application.
+### 5. **Select Conversion Type**
 
-### 5. **Select Conversion Type**:
+- Use the drop-down at the top of the window to choose **Video**, **Image**, or **Audio**. 🎚️
 
-- Use the drop‑down at the top of the window to choose Video, Image, or Audio. 🎚️
+### 6. **Browse for Input File**
 
-### 6. **Browse for Input File**:
+- Click **Browse** to select your source file. The file dialog will automatically filter by the chosen conversion type. 🔍
 
-- Click the Browse button to select your source file. The file dialog will automatically filter file types based on the selected conversion type. 🔍
+### 7. **Select Output Format**
 
-### 7. **Set Output File**:
+- Use the **Output Format** drop-down to pick your desired format. Each type (Video/Image/Audio) comes with a full list of supported formats and a recommended default. ✅
 
-- Click Save As and choose your output file name (file name only). The application will automatically append the proper file extension based on your output format selection. 💾
+### 8. **Save Your Output File**
 
-### 8. **Select Output Format**:
+- Click **Save As**, enter **only** the file name (no extension), and click **Save**.  
+- The dialog will filter to your selected format and **automatically append** the correct extension for you. 💾
 
-- Use the output format drop‑down menu to choose your desired format. Each conversion type offers a comprehensive list of supported formats with a recommended default. ✅
+### 9. **Adjust Video Settings** *(Video only)*
 
-### 9. **Adjust Video Settings (if applicable)**:
+- If you’re doing a video conversion, tweak the **CRF** (quality) and choose an encoding **Preset**.  
+- The preset defaults to “medium” for a good balance of speed + quality. ⚙️
 
-- For video conversion, adjust the CRF (quality) and select an encoding preset. The preset drop‑down defaults to "medium" (recommended) for balanced speed and quality. ⚙️
+### 10. **Convert**
 
-### 10. **Convert**:
+- Click **Convert**.  
+- A status message will update during processing, and you’ll get a confirmation once it’s done. 🎉
 
-- Click the Convert button. A status message will update during the conversion process, and you'll receive a confirmation when the conversion is complete. 🎉
+### 11. **Exit**
 
-### 11. **Exit**:
-
-- Click the Close button to exit the application. 👋
+- Click **Close** to quit the app. 👋
 
 ## Sceenshots
 <img src="https://github.com/KernFerm/Bubbles-Converter/blob/main/screenshots/pic-3.png" width="350">
