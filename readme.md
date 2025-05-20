@@ -15,6 +15,8 @@ Bubbles Converter is a user‑friendly multimedia conversion tool built with **P
 - **Intuitive Interface:**  
   The GUI guides you through selecting the conversion type, browsing for files, choosing output formats, and adjusting video settings (if applicable) — all while running in the background for a responsive experience! 🤩
 
+- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+
 ---
 
 ## Installation & Requirements 🔧
